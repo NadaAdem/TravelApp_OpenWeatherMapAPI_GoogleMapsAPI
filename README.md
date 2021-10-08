@@ -12,8 +12,8 @@ OpenWeatherMap: Current Weather Data.
 For this project, it is also necessary to create a config.py file with your specific API key information.
 please see the example below.
 
-weather_api_key="your-weather-api-key-here"
-g_key="your-google-maps-api-key-here"
+- weather_api_key="your-weather-api-key-here"
+- g_key="your-google-maps-api-key-here"
 
 
 ## Retrieve Weather Data
