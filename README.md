@@ -17,7 +17,7 @@ please see the example below.
 
 
 ## Retrieve Weather Data
-Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data you gathered in this module, use your API skills to retrieve the current weather description for each city. Then, create a new DataFrame containing the updated weather data
+To start this project, it was necessary to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition.Generate data will  create a new DataFrame containing the updated weather data
 
 
 ![This is an image](https://github.com/NadaAdem/World-Weather-Analysis/blob/main/Weather_Database/WeatherPy_Database.png)
@@ -25,7 +25,7 @@ Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest ci
 
 
 ## Create a Customer Travel Destinations Map
- there use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels.Then, show those destinations on a marker layer map with pop-up markers.
+ The user input  the minimum and maximum temperatur to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels.Then, show those destinations on a marker layer map with pop-up markers.
  
 ![This is an image](https://github.com/NadaAdem/World-Weather-Analysis/blob/main/Vacation_Search/hotel_name.png)
 
