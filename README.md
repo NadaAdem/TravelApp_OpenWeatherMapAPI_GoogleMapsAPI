@@ -17,7 +17,7 @@ please see the example below.
 
 
 ## Retrieve Weather Data
-To start this project, it was necessary to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition.Generate data will  create a new DataFrame containing the updated weather data
+To start this project, it was necessary to generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition.Generate data will  create a new DataFrame containing the updated weather data.
 
 
 ![This is an image](https://github.com/NadaAdem/World-Weather-Analysis/blob/main/Weather_Database/WeatherPy_Database.png)
